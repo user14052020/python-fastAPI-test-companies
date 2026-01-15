@@ -1,5 +1,8 @@
 # Organizations Directory API
 
+<img width="1920" height="1187" alt="Screenshot 2026-01-15 at 12 57 07" src="https://github.com/user-attachments/assets/f056a7d1-ad09-4755-95c7-d40ae06c12bc" />
+
+
 REST API for organizations, buildings, and activities with API key auth.
 
 ## Stack
