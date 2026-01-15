@@ -45,7 +45,6 @@ If a migration already exists in `alembic/versions`, you can skip the first step
 ## API Docs
 
 - Swagger UI: `http://localhost:8000/docs`
-- Redoc: `http://localhost:8000/redoc`
 
 ## Main Endpoints
 
