@@ -42,8 +42,14 @@ docker compose run --rm api alembic revision --autogenerate -m "initial"
 docker compose run --rm api alembic upgrade head
 docker compose run --rm api python -m app.seed
 ```
+## Second run (Docker)
 
-If a migration already exists in `alembic/versions`, you can skip the first step.
+Perform migration and initial filling of the database:
+
+```bash
+docker compose run --rm api alembic upgrade head
+docker compose run --rm api python -m app.seed
+```
 
 ## API Docs
 
